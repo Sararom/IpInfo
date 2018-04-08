@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IpInfo</string>
+    <string name="ip_hint">XXX.XXX.XXX.XXX</string>
+    <string name="slash">/</string>
+    <string name="hint_mask">XX</string>
+    <string name="network_id">Network Id</string>
+    <string name="broad_name">Broadcast</string>
+    <string name="available_hosts">Available Hosts</string>
+    <string name="host_part">Host part</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset_button">Reset</string>
+</resources>
